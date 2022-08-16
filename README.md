@@ -1,6 +1,8 @@
 # Análisis de los 25 retailers más grandes de Estados Unidos
 
-Es un análisis de datos creado con el objetivo de entender las empresas más grandes de Estados Unidos creado con Jupyter notebooks en [Deepnote](https://deepnote.com/@edwlearn/Datacademy-1bdcfc5d-ba4f-4be6-9cc8-345a4761ca84)
+![+(1)](https://user-images.githubusercontent.com/79411131/184967115-cd10eb96-8c3c-41d6-8c3f-e4102b06b046.gif)
+
+Es un análisis de datos creado con el objetivo de entender las empresas más grandes de Estados Unidos creado con [Jupyter notebooks en Deepnote](https://deepnote.com/@edwlearn/Datacademy-1bdcfc5d-ba4f-4be6-9cc8-345a4761ca84)
 
 Se hacen varias preguntas sobre el negocio para encontrar mejores insights en los datos, con diferentes tipos de gráficas para un mejor entendimiento de estas.
 
