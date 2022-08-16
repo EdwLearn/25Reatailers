@@ -24,3 +24,6 @@ Se hacen varias preguntas sobre el negocio para encontrar mejores insights en lo
 - Meaborn
 - Squarify 
 
+# Creditos
+
+[Escuela de Data Science e Inteligencia Artificial de Platzi](https://platzi.com/datos/)
